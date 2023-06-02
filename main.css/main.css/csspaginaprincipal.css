@@ -1,0 +1,98 @@
+body{
+    background: #000000;
+}
+main
+{width: 96%;
+margin:auto;
+}
+
+h2{
+    color:white;
+font-family: "kiln-serif", sans-serif;
+font-weight: 400;
+font-style: normal;}
+
+#imagemprincipal{
+    margin-bottom: 40px;
+}
+
+#barradenavegacao {
+    background: #191a18;
+    height: 100px;  
+}
+
+a {color: white;
+font-family: "myriad-pro", sans-serif;
+font-weight: 700;
+font-style: normal;}
+
+form {margin:30px;
+    margin-bottom:20px;
+    margin-left: 20px;
+}
+
+button {color: black;
+    font-family: "myriad-pro", sans-serif;
+font-weight: 700;
+font-style: normal;
+    
+}
+
+
+
+
+#aplicativonobite
+{ color: white;
+    font-family: "myriad-pro", sans-serif;
+font-weight: 400;
+font-style: normal;
+     margin: auto;
+width: 1140px;
+display:grid;  
+    max-width: 800px;
+    padding: 40px;
+    text-align: center;
+}
+
+
+#planosnobite
+{
+color: white;
+font-family: "myriad-pro", sans-serif;
+font-weight: 400;
+font-style: normal;
+    margin-bottom:50px;
+    text-align: center;
+    padding: 
+}
+
+#card{
+      
+    font-family: "myriad-pro", sans-serif;
+font-weight: 700;
+font-style: normal
+}
+
+
+h5 {
+    text-justify: auto;
+    font-family: "kiln-serif", sans-serif;
+font-weight: 400;
+font-style: normal;}
+
+
+footer
+{color: white;
+    font-family: "myriad-pro", sans-serif;
+font-weight: 400;
+font-style: normal;
+    background: #191a18;
+    padding: 90px;
+    margin-top: 50px;
+}
+#somosnobite{
+    font-size:20px;
+   font-family: "myriad-pro", sans-serif;
+font-weight: 400;
+font-style: normal;
+}

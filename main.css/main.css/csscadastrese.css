@@ -1,0 +1,56 @@
+body{
+    background:#72c450 ;}
+
+
+
+header
+{
+}
+#barradenavegacao {
+    background: #191a18;
+    height: 100px;
+    font-family: "myriad-pro", sans-serif;
+font-weight: 700;
+font-style: normal;
+color: white;
+}
+
+
+
+#cadastrese{
+    color: white;
+   
+    padding: 20px;
+    text-align: center;
+    
+}
+
+
+#cadastro
+{background:#000000; 
+    width: 90%;
+margin:30px;
+    padding: 10px;
+   
+}
+
+h1{font-family: "kiln-serif", sans-serif;
+font-weight: 400;
+font-style: normal;}
+
+form{
+margin-left:60px;
+margin-right: 60px;
+margin-bottom:30px;
+margin-top: 30px;
+font-family: "myriad-pro", sans-serif;
+font-weight: 700;
+font-style: normal;
+color: white;}
+
+a {color: white;
+font-family: "myriad-pro", sans-serif;
+font-weight: 700;
+font-style: normal;}
+
+button{background-color:#191a18; }
